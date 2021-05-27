@@ -1,3 +1,1 @@
-- 👋 Hi, I’m @cocsx
-- 👀 Mi piace l'informatica e la matematica
-- 🌱 Sto studiando Informatica
+
